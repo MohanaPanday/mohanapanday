@@ -1,0 +1,76 @@
+baseURL: https://eternity.bora.sh # todo: change site url.
+title: Mohana Panday # todo: change site name.
+defaultContentLanguage: 'en'
+theme: eternity
+googleAnalytics: '' # todo: set your analytics id.
+
+params:
+  image: /images/mohanainvan.png
+  logo: logo.png # todo: add your custom logo to static/
+  subtitle: To hold a pen is to be at war-Voltaire 
+  copyright: All rights reserved. # todo: set your copyright type.
+  author: Mohana Panday # todo: set your full name.
+  dontShowSource: false # please, do not do this :)
+  portfolio:
+    columns:
+      desktop:
+        nature: 4
+        archive: 6
+        people: 2
+        default: 4
+      mobile:
+        default: 2
+        archive: 3
+        people: 1
+  socials:
+    # todo: change these links.
+    - icon: 'far fa-envelope fa-lg'
+      url: 'mailto:mohanajyoti123@gmail.com'
+      landing: true
+    - icon: 'fab fa-instagram fa-lg'
+      url: 'https://www.instagram.com/mohanapanday02/'
+    - icon: 'fab fa-linkedin-in fa-lg'
+      url: 'https://www.linkedin.com/in/mohana-panday-2347a3205/'
+    - icon: 'fab fa-tiktok fa-lg'
+      url: 'https://www.tiktok.com/@mohanapanday'
+
+  homepage: "/work" # homepage link, mostly same with menu.main[0]
+  specialPages:
+    - work
+    - archive
+  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
+  disableWelcomePageBackground: false # disables the background image on the homepage
+  plausible: '' # todo: set your plausible id.
+  disableRadius: false
+  moveIt: false  # Moves Title and Meta info down, only visible when scroll.
+  disableAlwaysResize: false
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  work: ":filename/"
+
+menu:
+  main:
+    - name: Who is Mohana?
+      url: /whoismohana/
+      weight: 1
+    - name: Nutrition Consultant
+      url: /tags/people/
+      weight: 2
+    - name: Health and Fitness Consultant
+      url: /tags/archive/
+      weight: 3
+    - name: Articles
+      url: /articles/
+      weight: 4
+    - name: Connect
+      url: /about/
+      weight: 5
