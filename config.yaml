@@ -33,6 +33,9 @@ params:
       url: 'https://www.linkedin.com/in/mohana-panday-2347a3205/'
     - icon: 'fab fa-tiktok fa-lg'
       url: 'https://www.tiktok.com/@mohanapanday'
+    - icon: 'fas fa-blog fa-lg'
+      url: 'https://medium.com/@mohanajyoti123'
+      
 
   homepage: "/work" # homepage link, mostly same with menu.main[0]
   specialPages:
