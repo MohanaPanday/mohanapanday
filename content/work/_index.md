@@ -10,7 +10,7 @@ url: whoismohana
 
   <p>
     Mohana Panday beholds a Bachelor's Degree in Business Communication. 
-    She is also ISSA Certified ISSA Certified Personal Trainer, Nutritionist, Strength and Conditioning Trainer, Recovery Specialist, and Anter Natal/Pre Natal Specialist. She is also a certified Yoga Instructor from World Yoga Center and Certified Swimming Instructor from Indian Life Saving Society.
+    She is also ISSA Certified ISSA Certified Personal Trainer, Nutritionist, Strength and Conditioning Trainer, Recovery Specialist, and Ante Natal/Pre Natal Specialist. She is also a certified Yoga Instructor from World Yoga Center and Certified Swimming Instructor from Indian Life Saving Society.
   </p>
 
   <p>
