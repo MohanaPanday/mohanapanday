@@ -71,9 +71,3 @@ menu:
     - name: Health and Fitness Consultant
       url: /tags/archive/
       weight: 3
-    - name: Articles
-      url: /articles/
-      weight: 4
-    - name: Connect
-      url: /about/
-      weight: 5
