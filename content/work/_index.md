@@ -5,8 +5,8 @@ url: whoismohana
 
 <div align="left">
   <img src="profilemohana1.jpg" alt="Mohana's Image" style="width: 400px; display: inline-block; margin-right: 10px;">
-  <img src="mohanav2.jpg" alt="Mohana's Image" style="width: 400px; display: inline-block; margin-right: 10px;">
-  <img src="mohanav3 trek.jpg" alt="Mohana's Image" style="width: 400px; display: inline-block;">
+  <img src="mohanav2.jpg" alt="Mohana's Image" style="width: 300px; display: inline-block; margin-right: 10px;">
+  <img src="mohanav3 trek.jpg" alt="Mohana's Image" style="width: 300px; display: inline-block;">
 
   <p>
     Mohana Panday beholds a Bachelor's Degree in Business Communication. 
