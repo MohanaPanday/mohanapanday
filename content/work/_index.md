@@ -6,10 +6,7 @@ images:
 ---
 
 <div align="left">
-  <img src="profilemohana1.jpg" alt="Mohana's Image" style="width: 400px; display: inline-block; margin-right: 10px;">
-  <img src="mohanav2.jpg" alt="Mohana's Image" style="width: 300px; display: inline-block; margin-right: 10px;">
-  <img src="mohanav3 trek.jpg" alt="Mohana's Image" style="width: 300px; display: inline-block;">
-
+  <img src="profilemohana1.jpg" alt="Mohana's Image" style="width: 600px; display: inline-block; margin-right: 40px;">
   <p>
     Mohana Panday beholds a Bachelor's Degree in Business Communication. 
     She is also ISSA Certified ISSA Certified Personal Trainer, Nutritionist, Strength and Conditioning Trainer, Recovery Specialist, and Ante Natal/Pre Natal Specialist. She is also a certified Yoga Instructor from World Yoga Center and Certified Swimming Instructor from Indian Life Saving Society.
